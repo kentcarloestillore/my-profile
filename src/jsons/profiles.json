@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "22 Feb 1985" },
+    {
+      "website": "<a target='blank' href='http://kent-estillore-resume.s3-website-us-east-1.amazonaws.com'>http://kent-estillore-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 995-476-1765" },
+    { "address": "Cogon, Inabanga, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. Information Technology(future)" },
+    { "email": "<a href='mailto:someone@example.com'>kentcarloestillore@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Cogon, Inabanga, Bohol, Philippines",
+    "+63 995-476-1765",
+    "<a href='mailto:someone@example.com'>kentcarloestillore@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. Information Technology",
+      "year": "2021 - 2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015 - 2021",
+      "school": "Saint Paul's Academy",
+      "address": "Poblacion, Inabanga, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2009 - 2015",
+      "school": "Inabanga South Central Elementary School",
+      "address": "Poblacion, Inabanga, Bohol"
+    }
+  ]
+}
